@@ -1,3 +1,4 @@
+// -- logs in use - Carsen
 if not LPH_OBFUSCATED then
     LPH_JIT_MAX = function(...)
         return (...)
